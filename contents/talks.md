@@ -1,6 +1,6 @@
 ### Talks
 
-- **Huawei–Shandong University Taishan Mathematics Forum** (China)  
+- **Huawei–Shandong University Taishan Mathematics Forum** (Jinan, China)  
   Talk: *“High-Performance Graph Algorithms and Related Research”*, Aug. 4, 2023
 
 - **The 11th Cross-Strait Conference on Graph Theory and Combinatorics** (Online)  
