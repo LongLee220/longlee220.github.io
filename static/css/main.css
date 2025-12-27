@@ -131,3 +131,31 @@ section .main-body{
 }
 
 
+.item-with-poster{
+    display: flex;
+    align-items: flex-start;
+    gap: 1.2rem;
+    margin-bottom: 1.6rem;
+}
+
+.item-with-poster .item-text{
+    flex: 1;
+}
+
+.item-with-poster .item-poster img{
+    width: 150px;              /* 封面宽度，可自己调 */
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(0,0,0,.15);
+}
+
+/* 小屏手机时改成上下排，避免太挤 */
+@media (max-width: 900px){
+    .item-with-poster{
+        flex-direction: column;
+    }
+    .item-with-poster .item-poster img{
+        width: 60%;
+        max-width: 220px;
+    }
+}
+
