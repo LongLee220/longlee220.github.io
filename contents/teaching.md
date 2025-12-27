@@ -31,7 +31,7 @@
   
 </div>
   <div class="item-poster">
-    <img src="static/assets/img/topo.jpg" alt="Summer 2021">
+    <img src="static/assets/img/openacc.jpg" alt="Summer 2021">
   </div>
 </div>
 
