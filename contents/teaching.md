@@ -1,5 +1,8 @@
 ### Teaching Experience
 
+<div class="item-with-poster">
+  <div class="item-text">
+    
 **1. An Introduction to Applied Topology (Winter 2025)**  
   Online  course   
   Role: **Teaching Assistant**  
