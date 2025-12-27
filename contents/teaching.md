@@ -27,10 +27,19 @@
 </div>
 
 
+<div class="item-with-poster">
+  <div class="item-text">
 
 **3. Statistical Methods (Spring 2022)**  
   Data Science Institute, Shandong University  
   Role: **Teaching Assistant**  
+
+  </div>
+  <div class="item-poster">
+    <img src="static/assets/img/2022_spring.jpg" alt="Spring 2022">
+  </div>
+</div>
+
 
 **4. Graph Algorithms in the Language of Linear Algebra (Fall 2021)**  
   Online Course   
