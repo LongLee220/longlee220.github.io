@@ -6,7 +6,7 @@
   
 </div>
   <div class="item-poster">
-    <img src="static/assets/img/2021_topo.jpg" alt="Graph Theory poster">
+    <img src="static/assets/img/2021_topo.jpg" alt="Winter 2025">
   </div>
 </div>
 
