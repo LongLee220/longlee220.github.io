@@ -6,8 +6,7 @@
 - High-Performance Graph Algorithms Project (Huawei – Shandong University)  
   Role: Team Member,   
 
-- Graph Algorithms and Matrix Computation Acceleration on the Ascend Platform  
-  (Huawei – Shandong University)  
+- Graph Algorithms and Matrix Computation Acceleration on the Ascend Platform (Huawei – Shandong University)  
   Role: Team Member  
 
 - Research on Generalized Encoding and Decoding over the Real Field  
