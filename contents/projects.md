@@ -4,7 +4,7 @@
   Jun. 2020 – Jun. 2021  
 
 - High-Performance Graph Algorithms Project (Huawei – Shandong University)  
-  Role: Team Member  
+  Role: Team Member,   
 
 - Graph Algorithms and Matrix Computation Acceleration on the Ascend Platform  
   (Huawei – Shandong University)  
