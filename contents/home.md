@@ -4,7 +4,7 @@ I am currently a Research Fellow at the School of Physical and Mathematical Scie
 [Google Scholar Profile - Longlong Li](https://scholar.google.com.hk/citations?user=kiaiB_oAAAAJ)
 
 ### Contact
-- **Email:** longlee@ntu.edu.sg
+- **Email:** longlong.li@ntu.edu.sg
 
 ### Education
 - Shandong University, China  
