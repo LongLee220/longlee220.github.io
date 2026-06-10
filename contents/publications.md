@@ -26,10 +26,10 @@
   <strong>arXiv</strong>, 2025.  
   [[arXiv]](https://arxiv.org/abs/2502.16957)
 - Mengyang Zhao*, <strong>Longlong Li*</strong>, and Cunquan Qu+.
-  Cheeger--Hodge Contrastive Learning for Structurally Robust Graph Representation Learning
+  Cheeger--Hodge Contrastive Learning for Structurally Robust Graph Representation Learning  
   <strong>arXiv</strong>, 2026.  
   [[arxiv]](https://arxiv.org/abs/2604.26301)
 - Yunchi Yang*, <strong>Longlong Li*</strong>, Jianliang Wu, and Cunquan Qu+.  
-  MISApp: Multi-Hop Intent-Aware Session Graph Learning for Next App Prediction
-  <strong>arXiv</strong>, 2026.
+  MISApp: Multi-Hop Intent-Aware Session Graph Learning for Next App Prediction  
+  <strong>arXiv</strong>, 2026.  
   [[arxiv]](https://arxiv.org/abs/2603.21653)
