@@ -8,7 +8,7 @@ I am currently a Research Fellow at the School of Physical and Mathematical Scie
 
 ### Education
 - Shandong University, China  
-  Ph.D. Candidate in Data Science  
+  Ph.D. in Data Science  
   Sept. 2019 – Dec. 2025  
   Advisor: Prof. Guanghui Wang [[Homepage]](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm)<br>
 
