@@ -23,4 +23,4 @@ I am currently a Research Fellow at the School of Physical and Mathematical Scie
   Sept. 2015 – Jun. 2019
   
 ### Research Interests
-Graph Neural Networks, Topological Deep Learning, AI for Science
+Graph Neural Networks; Topological & Geometric Deep Learning; Spectral and Hodge-based Learning; Kolmogorov–Arnold Networks; AI for Molecular and Biological Sciences.
